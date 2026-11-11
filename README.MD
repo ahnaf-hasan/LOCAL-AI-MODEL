@@ -456,21 +456,27 @@ print(response["message"]["content"])
 16. Deploy and monitor AI applications.
 17. Build real-world AI projects.
 
+---
+
 ## ⭐ Support & Contribution
 
+If you find this repository helpful, please support the project!
+
 - ⭐ Star this repository.
-- 📢 Share with friends and classmates.
-- 💡 Suggest improvements.
-- 🤝 Contribute educational resources.
-- 👨‍💻 Explore AI projects.
+- 📢 Share these notes with your friends and classmates.
+- 💡 Suggest improvements and corrections.
+- 👨‍💻 Follow me on GitHub for more educational projects and resources.
+
+---
 
 ## 👨‍💻 About the Author
 
 | Information | Details |
 |---|---|
-| GitHub Username | @ahnaf-hasan |
-| GitHub Profile | Visit Profile |
-| Project | LOCAL AI MODEL |
+| GitHub Username | [@ahnaf-hasan](https://github.com/ahnaf-hasan) |
+| GitHub Profile | [Visit Profile](https://github.com/ahnaf-hasan) |
+
+---
 
 ## 📋 Project Information
 
